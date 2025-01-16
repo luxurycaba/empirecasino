@@ -58,14 +58,14 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   bienvenidaPubli.addEventListener("click", () => {
-    const texto = `Bienvenida/o a *MONTANA!*♦️
+    const texto = `Bienvenida/o a *EMPIRE!*♦️
 
 *FICHAS CARGADAS!!!*🍀
 muchos exitos 🫂
 
 Ya podes ingresar a nuestro Link: http://kingcash7.net 🎰
 
-*Regalamos bonificaciones todos los dias en todas sus cargas!*💝✨
+*Regalamos bonos todos los dias en todas sus cargas!*💝
 `;
     copyToClipboard(texto);
   });
@@ -105,22 +105,22 @@ Reenvíale el siguiente texto que te vamos a enviar debajo, tiene el link que lo
 
 💝*SISTEMA DE BONIFICACIÓN:*
 
-♦️ La bonificación *NO* es retirable, de igual manera te genera mas posibilidades de ganar fichas retirables.
+♦️ El bono *NO* es retirable, igualmente te da mas posibilidades de ganar fichas retirables.
 
-♦️ En las salas en vivo la bonificación *NO* esta disponible!
+♦️ En las salas en vivo el bono *NO* esta disponible!
 
-♦️ Hay ciertos SLOTS que *NO* permiten la bonificación. Los que no permiten te avisan con un cartel, algunos no avisan pero te vas a dar cuenta porque no te figura el saldo TOTAL.`;
+♦️ Hay SLOTS que *NO* permiten el bono. Los que *NO* permiten son los que tienen para comprar tiradas gratis/bonus.`;
     copyToClipboard(texto);
   });
 
   captura.addEventListener("click", () => {
     const texto = `Mi nombre es Cata👩🏼‍💻
-*Para obtener el 100% de bonus enviame captura con este numero agendado como “Cata Cajera”!*✨😊`;
+*Para obtener el 150% de bonus enviame captura con este numero agendado como “Cata Cajera”!*✨😊`;
     copyToClipboard(texto);
   });
 
   textoDeReferidos.addEventListener("click", () => {
-    const texto = `Te *REGALAMOS* un *100% de bonificación* en tu primera carga!💝
+    const texto = `Te *REGALAMOS* un *150% de bonificación* en tu primera carga!💝
 
 wa.link/referidoscata`;
     copyToClipboard(texto);
@@ -143,7 +143,7 @@ Una vez que le retiramos sus fichas el mismo sistema de la pagina tambien baja l
   });
 
   avisame.addEventListener("click", () => {
-    const texto = `Te dejo cbu activo, recorda que tenes *100% de bonificacion* en tu primera carga‼️🔥`;
+    const texto = `Te dejo cbu activo, recorda que tenes *150% de bonificacion* en tu primera carga⬇️💝`;
     copyToClipboard(texto);
   });
 
@@ -282,7 +282,7 @@ Un retiro diario cada 24hs!
     e.preventDefault(); // Evita el comportamiento por defecto del formulario
     overlayBienvenida.style.display = "none"; // Cerrar el overlay del segundo menú
     const user = document.getElementById("usuarioBienvenida").value.trim();
-    const texto = `*Bienvenido/a a Montana 22 Casino!*♦️
+    const texto = `*Bienvenido/a a EMPIRE Casino!*♦️
 
 💰*Tu mejor sitio de entretenimiento con los mejores premios*💰
 
@@ -290,7 +290,7 @@ Podes encontrar CASINO EN VIVO, RULETAS, BLACKJACK, APUESTAS DEPORTIVAS Y +3000 
 
 💵*MÍNIMO DE CARGA: $1.000*
 
-*BONIFICACION DEL 100% EN TU PRIMER CARGA*💝
+*BONIFICACION DEL 150% EN TU PRIMER CARGA*💝
 
 👤*Usuario*: ${user}
 🔒*Clave*: vip123
