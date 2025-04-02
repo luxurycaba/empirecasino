@@ -115,12 +115,12 @@ Reenvíale el siguiente texto que te vamos a enviar debajo, tiene el link que lo
 
   captura.addEventListener("click", () => {
     const texto = `Mi nombre es Cata👩🏼‍💻
-*Para obtener el 150% de bonus enviame captura con este numero agendado como “Cata Cajera”!*✨😊`;
+*Para obtener el 200% de bonus enviame captura con este numero agendado como “Cata Cajera”!*✨😊`;
     copyToClipboard(texto);
   });
 
   textoDeReferidos.addEventListener("click", () => {
-    const texto = `Te *REGALAMOS* un *150% de bonificación* en tu primera carga!💝
+    const texto = `Te *REGALAMOS* un *200% de bonificación* en tu primera carga!💝
 
 wa.link/referidoscata`;
     copyToClipboard(texto);
@@ -143,7 +143,7 @@ Una vez que le retiramos sus fichas el mismo sistema de la pagina tambien baja l
   });
 
   avisame.addEventListener("click", () => {
-    const texto = `Te dejo cbu activo, recorda que tenes *150% de bonificacion* en tu primera carga⬇️💝`;
+    const texto = `Te dejo cbu activo, recorda que tenes *200% de bonificacion* en tu primera carga⬇️💝`;
     copyToClipboard(texto);
   });
 
@@ -286,16 +286,14 @@ Un retiro diario cada 24hs!
 
 💰*Tu mejor sitio de entretenimiento con los mejores premios*💰
 
-Podes encontrar CASINO EN VIVO, RULETAS, BLACKJACK, APUESTAS DEPORTIVAS Y +3000 SLOTS!
-
-💵*MÍNIMO DE CARGA: $1.000*
-
-*BONIFICACION DEL 150% EN TU PRIMER CARGA*💝
+*BONIFICACION DEL 200% EN TU PRIMERA CARGA*💝
 
 👤*Usuario*: ${user}
 🔒*Clave*: vip123
 
 🎰*Página*: https://kingcash7.net/ 🎰
+
+💵*MÍNIMO DE CARGA: $1.000*
 
 ⛔️ *Consúltanos siempre CBU/ALIAS disponible para realizar tu carga y comenzar a GANAR*⛔`;
     copyToClipboard(texto);
